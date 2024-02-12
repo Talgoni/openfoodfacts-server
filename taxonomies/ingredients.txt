@@ -15,6 +15,8 @@ synonyms:en:hydrolysed, hydrolyzed
 
 synonyms:en:pasteurised, pasteurized
 
+synonyms:fr:de production biologique, issu de l'agriculture biologique, 
+
 synonyms:en:wholemeal, whole, whole grain, wholegrain, complete
 
 synonyms:en:semi-wholemeal, semi-whole, semi-whole grain, semi-wholegrain, semi-complete, semiwhole, semiwholemeal
@@ -32775,6 +32777,24 @@ nl:gekaramelliseerde schilfers van cacaobonen
 <en:cocoa
 en:cocoa fiber
 hr:kakaova vlakna
+af:Kakaovezel
+bg:какаови фибри
+ca:fibra de cacau
+de:Kakaofaser
+es:fibra de cacao
+et:kakaokiud
+fi:kaakaokuitu
+fr:fibre de cacao
+hu:kakaórost
+it:fibra di cacao
+ja:カカオ繊維
+mk:какаови влакна
+nl:cacaovezel
+ru:какао-волокна
+sq:rrënjë kakaoje
+sv:kakaofiber
+uk:какао-волокна
+zh:可可纤维
 
 #<en:compound
 en:cocoa bar
@@ -33697,6 +33717,9 @@ bg:газирана изворна вода
 de:Quellwasser mit Kohlensäure
 fr:eau de source gazéifiée, Eau de source avec adjonction de gaz carbonique
 nl:bruisend bronwater
+es:agua de manantial con gas
+it:acqua di sorgente gassata
+pt:água de nascente gaseificada
 
 <en:carbonated spring water
 fr:eau de source St Benoît gazéifiée
@@ -35739,6 +35762,10 @@ bg:стабилизатор E450
 de:Stabilisator E450
 fr:stabilisant e450
 lt:stabilizatorius e450, stabilizatoriai e450
+es:estabilizante e450
+it:stabilizzante e450
+pt:estabilizante e450
+nl:stabilisator e450
 
 <en:diphosphates
 en:ferric pyrophosphate
@@ -36310,6 +36337,10 @@ eurocode_2_group_1:en: 9
 en:fruit puree
 nl:fruitpuree
 pl:przetarte owoce, przeciery owocowe
+fr:purée de fruits
+es:puré de frutas
+de:Fruchtpüree
+it:frullato di frutta
 
 <en:fruit
 en:mixed fruit
@@ -36671,6 +36702,12 @@ en:pear preparation
 fi:päärynävalmiste
 fr:préparation de poires
 sv:päronberedning
+da:pære tilberedning
+de:Birnenzubereitung
+es:preparación de peras
+it:preparazione di pere
+nl:perenbereiding
+pt:preparação de pera
 # ingredient/fr:preparation-de-poires has 2 products in 2 languages @2020-12-21
 # usage:fr:préparation de poires 13% (sucre, poires 41%, amidon de maïs, jus de citron concentré, arôme naturel)
 
@@ -37597,6 +37634,9 @@ fr:Mangue importée en avion
 es:Mango importado en avión
 de:Mango importiert mit dem Flugzeug
 it:Mango importato in aereo
+nl:Mango geïmporteerd per vliegtuig
+pt:Manga importada por avião
+ru:Манго импортировано самолетом
 carbon_footprint_fr_foodges_ingredient:fr:Mangue importée en avion
 carbon_footprint_fr_foodges_value:fr:27.4
 
@@ -37623,6 +37663,12 @@ ru:манговый сок
 <en:mango juice
 en:concentrated mango juice
 fr:jus de mangue concentrés
+es:jugo de mango concentrado
+de:konzentrierter Mangosaft
+it:succo di mango concentrato
+nl:geconcentreerd mangosap
+pt:suco de manga concentrado
+ru:концентрированный манговый сок
 
 <en:mango
 <en:purée
@@ -37870,6 +37916,11 @@ de:pfirsichsaft aus pfirsichsaftkonzentrat
 <en:peach juice from concentrate
 <en:white peach
 fr:jus de pêche blanche à base de concentré
+bg:бял персик сок от концентрат
+de:Weißer Pfirsichsaft aus Konzentrat
+es:jugo de melocotón blanco a base de concentrado
+it:succo di pesca bianca concentrato
+nl:witte perziksap uit concentraat
 
 #compound?
 <en:peach
@@ -37890,6 +37941,10 @@ en:dried peach
 fr:Pêche sèche
 lt:džiovinti persikų gabalėliai
 nl:gedroogde perzik
+es:melocotón seco
+de:getrocknete Pfirsiche
+it:pesche secche
+pt:pêssego seco
 ciqual_food_code:en:13118
 ciqual_food_name:en:Peach, dried
 ciqual_food_name:fr:Pêche, sèche
@@ -38050,6 +38105,9 @@ ru:груша конференция
 <en:pear
 de:Williamsbirnen, Walliser Williamsbirnen
 fr:poire Williams, poires Williams des coteaux du Lyonnais
+es:pera Williams, peras Williams de los coteaux du Lyonnais
+it:pera Williams, pere Williams dei coteaux du Lyonnais
+nl:Williams peren, Walliser Williams peren
 
 <en:pear
 en:pears in cubes
@@ -38084,6 +38142,9 @@ ciqual_food_name:en:Pear, pulp and peel, raw
 en:Williams pear puree
 fr:purée de poire Williams, pulpe de poire Williams, Pulpe de poire William’s
 it:pureau di pera Williams
+es:pure de pera Williams
+de:Williams Birnenpüree
+nl:Williams perenpuree
 
 <en:pear puree
 en:concentrated pear puree
@@ -39894,6 +39955,12 @@ ciqual_food_name:fr:Kumquat, sans pépin, cru
 <en:kumquat
 en:kumquat juice
 fr:jus de kumquat
+es:jugo de kumquat
+de:Kumquat-Saft
+it:succo di kumquat
+ja:金柑ジュース
+nl:kumquat sap
+pt:sumo de kumquat
 
 ###################################################################################################
 #
@@ -40897,6 +40964,9 @@ pl:sok pomarańczowy z miąższem
 <en:squeezed orange juice
 en:squeezed orange juice with pulp
 fr:pur jus d'oranges avec sa pulpe
+es:jugo de naranja exprimido con pulpa
+nl:geperste sinaasappelsap met vruchtvlees
+de:gepresster Orangensaft mit Fruchtfleisch
 
 <en:orange juice
 en:orange juice without pulp
@@ -41257,6 +41327,10 @@ ru:Сок ацеролы
 <en:acerola juice
 en:acerola juice from concentrate
 de:Acerolasaft aus Acerolasaftkonzentrat
+es:jugo de acerola concentrado
+fr:jus d'acérola concentré
+it:succo di acerola concentrato
+nl:acerolajuice uit concentraat
 
 #processing:en: en:powdered
 <en:acerola
@@ -41668,6 +41742,10 @@ en:blueberry juice
 en:concentrated blueberry juice
 de:Heidelbeer-Saftkonzentrat
 sv:blåbärssaftkoncentrat
+es:concentrado de jugo de arándano
+fr:jus de myrtille concentré
+it:succo di mirtillo concentrato
+nl:geconcentreerd bosbessensap
 
 <en:blueberry
 en:blueberry juice from concentrate
@@ -42073,6 +42151,9 @@ hr:eko višnja
 <en:cherry
 en:wild cherry
 fr:cerise sauvage, cerises sauvages
+es:cereza silvestre, cerezas silvestres
+de:wilde Kirsche, wilde Kirschen
+it:ciliegia selvatica, ciliegie selvatiche
 
 <en:cherry
 en:Pitted cherry
@@ -42757,6 +42838,11 @@ it:datteri bio
 en:deglet nour dates
 de:Deglet Nour Datteln, Datteln Deglet Nour, Datteln (Deglet Nour)
 fr:dattes deglet nour
+es:dátiles deglet nour
+it:datteri deglet nour
+nl:deglet nour dadels
+pt:tâmaras deglet nour
+ru:финики деглет нур
 # ingredient/fr:dattes-deglet-nour has 16 products in french @2019-05-23
 
 <en:date
@@ -42765,6 +42851,10 @@ de:Medjool Datteln
 fr:dattes Medjool
 it:Datteri Medjool
 pl:daktyle medjool, daktyle odmiany medjoool
+es:dátiles Medjool
+nl:Medjool dadels
+pt:Tâmaras Medjool
+ru:меджул даты
 # 9in3@2019-06-04
 
 #process:en: en:paste
@@ -42905,10 +42995,17 @@ sv:naturligt fläderbärsextrakt
 <en:elderberry
 en:elderberry syrup
 bg:сироп от бъз
+<<<<<<< Updated upstream
 da:hyldbærsirup
 de:Holunderbeersirup
 es:jarabe de sauco
 fi:seljamarjasiirappi
+=======
+da:hyldebærsirup
+de:Holunderbeersirup
+es:jarabe de sauco
+fi:seljanmarjasiirappi
+>>>>>>> Stashed changes
 fr:sirop de sureau
 hr:sirup od bazge
 nl:vliersiroop
@@ -90428,3 +90525,5 @@ fr:viande de taureau
 en:vegetable pigment, vegetable colour
 fr:colorant végétal
 ja:野菜色素
+
+en:charbon végétal
