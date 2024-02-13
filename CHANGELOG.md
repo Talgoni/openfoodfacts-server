@@ -1,5 +1,28 @@
 # Changelog
 
+## [2.27.2](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.27.1...v2.27.2) (2024-02-13)
+
+
+### Bug Fixes
+
+* code stored as string ([#9767](https://github.com/openfoodfacts/openfoodfacts-server/issues/9767)) ([2474ae4](https://github.com/openfoodfacts/openfoodfacts-server/commit/2474ae4c53c4c388010ddf0a8e8a714252cb36cd))
+* fix_uninitialized_value ([#9792](https://github.com/openfoodfacts/openfoodfacts-server/issues/9792)) ([e06db12](https://github.com/openfoodfacts/openfoodfacts-server/commit/e06db120f092d2bd58a6801ac44c4cac0d04e560))
+* nutriscore misc_tags removal ([#9765](https://github.com/openfoodfacts/openfoodfacts-server/issues/9765)) ([882df73](https://github.com/openfoodfacts/openfoodfacts-server/commit/882df739bf442fb856c89a134a04325ca542d7f6))
+* remove unnecessary &lt; ([f1eef18](https://github.com/openfoodfacts/openfoodfacts-server/commit/f1eef1807fe4efeca542758bc44c54e0e4a5ee94))
+
+
+### Taxonomy
+
+* Bulgarian additions ([#9778](https://github.com/openfoodfacts/openfoodfacts-server/issues/9778)) ([e55929b](https://github.com/openfoodfacts/openfoodfacts-server/commit/e55929bcf5949b3ba2b4e8d7680bc6e785b08c8c))
+* fix categories.txt ([#9771](https://github.com/openfoodfacts/openfoodfacts-server/issues/9771)) ([f1eef18](https://github.com/openfoodfacts/openfoodfacts-server/commit/f1eef1807fe4efeca542758bc44c54e0e4a5ee94))
+* ingredient boost ([#9726](https://github.com/openfoodfacts/openfoodfacts-server/issues/9726)) ([2022e67](https://github.com/openfoodfacts/openfoodfacts-server/commit/2022e6773dd76d4d01be868e2631ae9aa8c46206))
+* various updates ([#9754](https://github.com/openfoodfacts/openfoodfacts-server/issues/9754)) ([23d063b](https://github.com/openfoodfacts/openfoodfacts-server/commit/23d063b32d96858eb073140afa48c0e6b95475b4))
+
+
+### Translations
+
+* New Crowdin translations to review and merge ([#9762](https://github.com/openfoodfacts/openfoodfacts-server/issues/9762)) ([20c8f5a](https://github.com/openfoodfacts/openfoodfacts-server/commit/20c8f5a5b525caa161898349f141da791b967950))
+
 ## [2.27.1](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.27.0...v2.27.1) (2024-02-06)
 
 
